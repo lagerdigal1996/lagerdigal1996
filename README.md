@@ -1,16 +1,20 @@
-## Hi there 👋
+![wireframe-prototyping development](https://media3.giphy.com/media/v1.Y2lkPTdiYzJhNDkwaTdraGVheGtka3pscXA3cDc5YW00a3piNmtpY3d4ZDY5OXlwd3E5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KKpPRW1OrMNgI/giphy.gif)
 
-<!--
-**lagerdigal1996/lagerdigal1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Introduction
+Hi there! I'm lagerdigal1996, a software developer with a strong interest in web technologies and open source contributions. I enjoy tackling challenging problems and collaborating with others.
 
-Here are some ideas to get you started:
+# Skills
+- **Languages**: JavaScript, Python, Java
+- **Frameworks**: React, Node.js, Django
+- **Tools**: Git, Docker, Visual Studio Code
+- **Databases**: MySQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects
+- **Project A**: A web application for managing tasks, built with React and Node.js.
+- **Project B**: An open-source library for data visualization in Python.
+- **Project C**: A personal blog platform utilizing Django and PostgreSQL.
+
+# Contacts
+Feel free to reach out to me via:
+- **Email**: lagerdigal1996@example.com
+- **LinkedIn**: [linkedin.com/in/lagerdigal1996](https://linkedin.com/in/lagerdigal1996)
